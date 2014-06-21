@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AF66AF3B-4F8D-488F-B542-485BA080EE85</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PhoneNumberValidate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>298A14A0-4AC8-4B54-B11E-6A34DA5AEAB9</key>
+		<string>https://github.com/tdyn2000/PhoneNumber.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PhoneNumberValidate.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>298A14A0-4AC8-4B54-B11E-6A34DA5AEAB9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tdyn2000/PhoneNumber.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>298A14A0-4AC8-4B54-B11E-6A34DA5AEAB9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>298A14A0-4AC8-4B54-B11E-6A34DA5AEAB9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PhoneNumberValidate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
